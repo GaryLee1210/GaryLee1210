@@ -10,7 +10,7 @@
 
 🎓 I'm an MSc student in **Robotics Science and Engineering at Northeastern University (China)** and an intern at 💼 **Beta Infinity**. My current research focuses on image-goal navigation; I'm also exploring vision-and-language navigation, world models, and sim-to-real transfer.
 
-[🚀 Projects](#-featured-projects) · [📚 Research Notes](#-research-notes) · [🗺️ Knowledge Map](#-knowledge-map) · [📫 Contact](#-contact)
+[🚀 Projects](#-featured-projects) · [📚 Research Notes](#-research-notes) · [🧠 Knowledge Map](#-knowledge-map) · [📫 Contact](#-contact)
 
 ---
 
@@ -29,7 +29,7 @@
 
 🔄 The site is a learning mirror of [Tingde Liu's research notes](https://tingdeliu.github.io/), with original authorship and licenses retained. Upstream changes are checked daily.
 
-## 🗺️ Knowledge Map
+## 🧠 Knowledge Map
 
 My reading map of **AI → Embodied AI → Robot Navigation**, with representative algorithms and official implementations. Start with the [Image-Goal Navigation paper list](papers/imagenav/).
 
