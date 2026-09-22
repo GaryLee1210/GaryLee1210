@@ -10,7 +10,7 @@
 
 🎓 我在**东北大学（中国）攻读机器人科学与工程硕士**，目前在 💼 **Beta Infinity** 实习。研究重点是图像目标导航（Image-Goal Navigation），也在探索视觉语言导航、世界模型与仿真到真实的迁移。
 
-[🚀 精选项目](#-精选项目) · [📚 研究笔记](#-研究笔记) · [🧠 知识图谱](#-知识图谱) · [📫 联系我](#-联系我)
+[🚀 精选项目](#-精选项目) · [📄 Paper 开源](#-paper-开源) · [📚 研究笔记](#-研究笔记) · [🧠 知识图谱](#-知识图谱) · [📫 联系我](#-联系我)
 
 ---
 
@@ -18,8 +18,13 @@
 
 | 项目 | 研究与实现 | 状态 |
 |---|---|---|
-| [**🧭 GeoSRNav**](https://github.com/GaryLee1210/GeoSRNav) | 我的图像目标导航论文项目，使用 **Gibson · HM3D · MP3D** 数据集。[数据准备说明](https://github.com/GaryLee1210/GeoSRNav/blob/main/docs/datasets.zh-CN.md)。 | ⏳ 代码即将开源 |
 | [**🚁 UAV-Navigation-System**](https://github.com/GaryLee1210/UAV-Navigation-System) | 自研 250mm 自主导航四旋翼：**FAST-LIO2 / DLIO + EGO-Planner**，搭载 Livox Mid-360、Jetson Orin NX 与 PX4。 | ✅ 已开源 · 已实机验证 |
+
+## 📄 Paper 开源
+
+| 论文项目 | 研究内容 | 开源状态 |
+|---|---|---|
+| [**🧭 GeoSRNav**](https://github.com/GaryLee1210/GeoSRNav) | 我的图像目标导航论文项目，使用 **Gibson · HM3D · MP3D** 数据集。[数据准备说明](https://github.com/GaryLee1210/GeoSRNav/blob/main/docs/datasets.zh-CN.md)。 | ⏳ 代码即将开源 |
 
 ## 📚 研究笔记
 

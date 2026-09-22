@@ -10,7 +10,7 @@
 
 🎓 I'm an MSc student in **Robotics Science and Engineering at Northeastern University (China)** and an intern at 💼 **Beta Infinity**. My current research focuses on image-goal navigation; I'm also exploring vision-and-language navigation, world models, and sim-to-real transfer.
 
-[🚀 Projects](#-featured-projects) · [📚 Research Notes](#-research-notes) · [🧠 Knowledge Map](#-knowledge-map) · [📫 Contact](#-contact)
+[🚀 Projects](#-featured-projects) · [📄 Papers & Code](#-papers--code) · [📚 Research Notes](#-research-notes) · [🧠 Knowledge Map](#-knowledge-map) · [📫 Contact](#-contact)
 
 ---
 
@@ -18,8 +18,13 @@
 
 | Project | Focus | Status |
 |---|---|---|
-| [**🧭 GeoSRNav**](https://github.com/GaryLee1210/GeoSRNav) | My image-goal navigation research project. Datasets: **Gibson · HM3D · MP3D**. [Dataset preparation](https://github.com/GaryLee1210/GeoSRNav/blob/main/docs/datasets.md). | ⏳ Code coming soon |
 | [**🚁 UAV-Navigation-System**](https://github.com/GaryLee1210/UAV-Navigation-System) | A custom 250mm autonomous quadrotor: **FAST-LIO2 / DLIO + EGO-Planner**, with Livox Mid-360, Jetson Orin NX and PX4. | ✅ Open source · Real-platform validated |
+
+## 📄 Papers & Code
+
+| Paper Project | Research | Code Status |
+|---|---|---|
+| [**🧭 GeoSRNav**](https://github.com/GaryLee1210/GeoSRNav) | My image-goal navigation paper project. Datasets: **Gibson · HM3D · MP3D**. [Dataset preparation](https://github.com/GaryLee1210/GeoSRNav/blob/main/docs/datasets.md). | ⏳ Code coming soon |
 
 ## 📚 Research Notes
 
