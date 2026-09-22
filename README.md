@@ -4,21 +4,37 @@
 
 </div>
 
-# 👋 Hi, I'm GaryLee1210
+# Hi, I'm GaryLee1210 👋
 
-> 🎓 MSc student in Robotics Science and Engineering, Northeastern University (China) | 💼 Intern at **Beta Infinite** | 🧭 **Image-Goal Navigation / End-to-End Robot Navigation**
-> Submitted to RA-L. Currently working on Image-Goal Navigation; next interests: Vision-and-Language Navigation (VLN), world-model-based navigation, and sim-to-real transfer for embodied navigation.
+**Image-Goal Navigation · End-to-End Robot Navigation · Embodied AI**
 
-This repository is my personal knowledge map of **AI → Embodied AI → Robot Navigation**.
-Mindmaps show the structure; tables list representative algorithms with official code. Continuously updated.
+I'm an MSc student in **Robotics Science and Engineering at Northeastern University (China)** and an intern at **Beta Infinity**. My current research focuses on image-goal navigation; I'm also exploring vision-and-language navigation, world models, and sim-to-real transfer.
+
+[Projects](#featured-projects) · [Research Notes](#research-notes) · [Knowledge Map](#knowledge-map) · [Contact](#contact)
 
 ---
 
-## 🚁 Featured Project
+## Featured Projects
 
-| Project | Description |
-|---|---|
-| [**UAV-Navigation-System**](https://github.com/GaryLee1210/UAV-Navigation-System) | A custom 250mm autonomous quadrotor: Livox Mid-360 + **FAST-LIO2 / DLIO** LiDAR-inertial localization + **EGO-Planner** waypoint navigation, verified on a real platform (Jetson Orin NX + PX4). Roadmap: autonomous exploration → DRL-based end-to-end navigation. |
+| Project | Focus | Status |
+|---|---|---|
+| [**GeoSRNav**](https://github.com/GaryLee1210/GeoSRNav) | My image-goal navigation research project. Datasets: **Gibson · HM3D · MP3D**. [Dataset preparation](https://github.com/GaryLee1210/GeoSRNav/blob/main/docs/datasets.md). | Code coming soon |
+| [**UAV-Navigation-System**](https://github.com/GaryLee1210/UAV-Navigation-System) | A custom 250mm autonomous quadrotor: **FAST-LIO2 / DLIO + EGO-Planner**, with Livox Mid-360, Jetson Orin NX and PX4. | Open source · Real-platform validated |
+
+## Research Notes
+
+| Resource | What's inside | Explore |
+|---|---|---|
+| [**AI & Robotics Research Notes**](https://garylee1210.github.io/) | Chinese surveys, paper reading notes and visual explanations of embodied AI, robot navigation and foundation models. | [VLN Papers](https://garylee1210.github.io/VLN-Papers/) · [All Research](https://garylee1210.github.io/research/) · [Source](https://github.com/GaryLee1210/GaryLee1210.github.io) |
+
+The site is a learning mirror of [Tingde Liu's research notes](https://tingdeliu.github.io/), with original authorship and licenses retained. Upstream changes are checked daily.
+
+## Knowledge Map
+
+My reading map of **AI → Embodied AI → Robot Navigation**, with representative algorithms and official implementations. Start with the [Image-Goal Navigation paper list](papers/imagenav/).
+
+<details>
+<summary><strong>Explore the full knowledge map and code references</strong></summary>
 
 ---
 
@@ -376,7 +392,11 @@ mindmap
 
 ---
 
-## 📌 Roadmap
+</details>
+
+## Now & Next
+
+- [ ] Release the GeoSRNav implementation
 
 - [x] Image-Goal Navigation paper list — see [papers/imagenav](papers/imagenav/) (deep-reading notes coming next)
 - [ ] Habitat environment setup pitfalls guide
@@ -385,9 +405,7 @@ mindmap
 
 ---
 
-## 📫 Contact
+## Contact
 
 - GitHub Issues are welcome for discussion
-- Email: `18840596587@163.com`
-
-> This repository is continuously updated. If it helps you, a ⭐ Star is appreciated.
+- Email: [18840596587@163.com](mailto:18840596587@163.com)

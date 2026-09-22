@@ -4,22 +4,37 @@
 
 </div>
 
-# 👋 你好,我是 GaryLee1210
+# 你好，我是 GaryLee1210 👋
 
-> 🎓 东北大学(中国)机器人科学与工程在读硕士(研一) | 💼 目前在 **Beta 无限** 实习 | 🧭 **Image-Goal Navigation / 端到端机器人导航**
-> 投递过 RA-L,主攻图像目标导航 (Image-Goal Navigation),
-> 后续兴趣方向:Vision-and-Language Navigation (VLN)、基于世界模型的导航、具身导航任务的 Sim-to-Real。
+**图像目标导航 · 端到端机器人导航 · 具身智能**
 
-本仓库是我个人对 **AI - 具身智能 - 机器人导航** 整体技术体系的梳理。
-图为知识结构,表为代表算法与官方代码仓库,持续更新中。
+我在**东北大学（中国）攻读机器人科学与工程硕士**，目前在 **Beta Infinity** 实习。研究重点是图像目标导航（Image-Goal Navigation），也在探索视觉语言导航、世界模型与仿真到真实的迁移。
+
+[精选项目](#精选项目) · [研究笔记](#研究笔记) · [知识图谱](#知识图谱) · [联系我](#联系我)
 
 ---
 
-## 🚁 精选项目
+## 精选项目
 
-| 项目 | 简介 |
-|---|---|
-| [**UAV-Navigation-System**](https://github.com/GaryLee1210/UAV-Navigation-System) | 自研 250mm 自主导航四旋翼:Livox Mid-360 + **FAST-LIO2 / DLIO** 激光-惯性定位 + **EGO-Planner** 航点导航,已实机验证(Jetson Orin NX + PX4)。路线图:自主探索 → 基于 DRL 的端到端导航。 |
+| 项目 | 研究与实现 | 状态 |
+|---|---|---|
+| [**GeoSRNav**](https://github.com/GaryLee1210/GeoSRNav) | 我的图像目标导航论文项目，使用 **Gibson · HM3D · MP3D** 数据集。[数据准备说明](https://github.com/GaryLee1210/GeoSRNav/blob/main/docs/datasets.zh-CN.md)。 | 代码即将开源 |
+| [**UAV-Navigation-System**](https://github.com/GaryLee1210/UAV-Navigation-System) | 自研 250mm 自主导航四旋翼：**FAST-LIO2 / DLIO + EGO-Planner**，搭载 Livox Mid-360、Jetson Orin NX 与 PX4。 | 已开源 · 已实机验证 |
+
+## 研究笔记
+
+| 资源 | 内容 | 阅读入口 |
+|---|---|---|
+| [**AI 与机器人研究笔记**](https://garylee1210.github.io/) | 具身智能、机器人导航与大模型的中文综述、论文精读和图解。 | [VLN 经典论文](https://garylee1210.github.io/VLN-Papers/) · [研究索引](https://garylee1210.github.io/research/) · [网站源码](https://github.com/GaryLee1210/GaryLee1210.github.io) |
+
+这是 [Tingde Liu 研究笔记](https://tingdeliu.github.io/)的学习镜像，保留原作者署名与许可，每日检查原站更新。
+
+## 知识图谱
+
+我对 **AI → 具身智能 → 机器人导航** 的学习梳理，整理了代表算法与官方实现。图像导航方向可从 [Image-Goal Navigation 论文清单](papers/imagenav/) 开始。
+
+<details>
+<summary><strong>展开完整知识图谱与代码索引</strong></summary>
 
 ---
 
@@ -377,7 +392,11 @@ mindmap
 
 ---
 
-## 📌 后续计划 (Roadmap)
+</details>
+
+## 当前与后续计划
+
+- [ ] 开源 GeoSRNav 的实现
 
 - [x] Image-Goal Navigation 论文清单 — 见 [papers/imagenav](papers/imagenav/)(精读笔记持续补充中)
 - [ ] 整理 Habitat 环境配置避坑指南
@@ -386,9 +405,7 @@ mindmap
 
 ---
 
-## 📫 联系我
+## 联系我
 
 - GitHub Issue 欢迎讨论
-- 邮箱:`18840596587@163.com`
-
-> 本仓库持续更新中,如果对你有帮助欢迎 ⭐ Star。
+- 邮箱：[18840596587@163.com](mailto:18840596587@163.com)
